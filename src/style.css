@@ -130,3 +130,7 @@ button {
   align-self: center;
   text-align: center;
 }
+
+.code-link {
+  font-size: 12px;
+}
